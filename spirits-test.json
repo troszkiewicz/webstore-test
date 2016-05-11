@@ -1,0 +1,22 @@
+{
+    products: [
+        {
+        itemCode: "101",
+        productName: "Zubrowka"
+        price: "24.99",
+        category: "Vodka",
+        sellingpoint: "Wild grass flavored."
+        },
+        {
+        itemCode: "102",
+        productName: "Baczewski"
+        price: "14.99",
+        category: "Vodka",
+        sellingpoint: "Family owned."
+        },
+        {
+        itemCode: "103",
+        productName: "patron"
+        },  
+    ]
+}
