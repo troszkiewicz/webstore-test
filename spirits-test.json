@@ -4,6 +4,7 @@
             "itemCode": "101",
             "productName": "Zubrowka",
             "price": "24.99",
+            "imageName":"zubrowka.png",
             "category": "Vodka",
             "sellingpoint": "Wild grass flavored."
         },
@@ -11,15 +12,42 @@
             "itemCode": "102",
             "productName": "Baczewski",
             "price": "14.99",
+            "imageName":"baczewski.png",
             "category": "Vodka",
             "sellingpoint": "Family owned."
         },
         {
             "itemCode": "103",
-            "productName": "patron",
+            "productName": "Patron",
             "price": "14.99",
+            "imageName": "patron.png",
             "category": "Tequila",
             "sellingpoint": "100% Agave."
+        },
+        {
+            "itemCode": "104",
+            "productName": "Jose Cuervo Especial",
+            "price": "19.99",
+            "imageName": "cuervo.png",
+            "category": "Tequila",
+            "sellingpoint": "Slightly sweet-seeming taste."
+        },
+        {
+            "itemCode": "105",
+            "productName": "Tullamore Dew",
+            "price": "33.99",
+            "imageName": "tullamoredew.png",
+            "category": "Whiskey",
+            "sellingpoint": "Irish blended whiskey."
+        },
+        {
+            "itemCode": "106",
+            "productName": "Jack Daniels",
+            "price": "19.99",
+            "imageName": "jackdaniels.png",
+            "category": "Whiskey",
+            "sellingpoint": "Straight bourbon sour mash."
         }
+
     ]
 }
